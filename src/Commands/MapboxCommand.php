@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sgweb1\Mapbox\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MapboxCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'mapbox';
 
     public $description = 'My command';
 
