@@ -2,9 +2,9 @@
 
 namespace Sgweb1\Mapbox;
 
+use Sgweb1\Mapbox\Commands\MapboxCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sgweb1\Mapbox\Commands\MapboxCommand;
 
 class MapboxServiceProvider extends PackageServiceProvider
 {
